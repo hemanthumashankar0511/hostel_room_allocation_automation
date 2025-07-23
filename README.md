@@ -28,5 +28,5 @@ A smart solution to automate and optimize the room allocation process for instit
 Clone the repository:
 
 ```bash
-git clone https://github.com/Manoj-0312/Room-Allocation-Automation.git
+git clone https://github.com/hemanthumashankar0511/hostel_room_allocation_automation.git
 cd Room-Allocation-Automation
